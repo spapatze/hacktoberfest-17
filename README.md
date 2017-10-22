@@ -3,4 +3,7 @@
 # All Contributors
 
 1. Stella
-2. Thaleia
+2. Alexandros
+3.Panos
+4. George
+5. Thaleia
