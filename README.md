@@ -3,3 +3,10 @@
 # All Contributors
 
 1. Stella
+2. Alexandros
+3. Thaleia
+4. Solon
+5. Panos
+6. George
+7. Theodora
+8. Raf!
